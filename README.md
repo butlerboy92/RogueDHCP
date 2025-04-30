@@ -1,2 +1,8 @@
 <h1>Rogue DHCP</h1>
-This is a simple lab utilizing Wireshark to detect a Rogue DHCP server utilizing Virtual Machines for lab setup.
+This is a simple lab utilizing Wireshark to detect a Rogue DHCP server utilizing Virtual Machines for lab setup.<br />
+<h2>Environment and Technologies used</h2>
+Oracle VirtualBox Manager
+Windows Server 2025 iso
+Ubunut iso
+Windows 11 iso
+
