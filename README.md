@@ -3,7 +3,7 @@ This is a simple lab utilizing Wireshark to detect a Rogue DHCP server utilizing
 <h2>Environment and Technologies used</h2>
 Oracle VirtualBox Manager<br>
 Wireshark<br>
-Network Protocol: DHCP<br>
+Network Protocol(s): DHCP<br>
 <h2>Operating Systems</h2>
 Ubuntu Server 22.04.5 LTS (Jammy Jellyfish)<br>
 Windows 11<br>
