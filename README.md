@@ -2,8 +2,9 @@
 This is a simple lab utilizing Wireshark to detect a Rogue DHCP server utilizing Virtual Machines for lab setup.<br />
 <h2>Environment and Technologies used</h2>
 Oracle VirtualBox Manager<br>
-Windows Server 2025<br>
-Ubuntu<br>
+Wireshark<br>
+<h2>Operating Systems</h2>
+Ubuntu Server 22.04.5 LTS (Jammy Jellyfish)<br>
 Windows 11<br>
-Wireshark
+Windows server 2025<br>
 
