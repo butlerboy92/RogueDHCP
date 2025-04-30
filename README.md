@@ -8,4 +8,9 @@ Network Protocol(s): DHCP<br>
 Ubuntu Server 22.04.5 LTS (Jammy Jellyfish)<br>
 Windows 11<br>
 Windows server 2025<br>
+<h2>Steps for setup</h2>
+Download VirtualBox Manager<br>
+Create three VMS (2 Server, 1 Client)<br>
+Install DHCP service on servers and create IP Pools<br>
+Install Wireshark on the Client VM<br>
 
